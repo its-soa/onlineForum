@@ -1,0 +1,84 @@
+       .ref{
+            text-align: center;
+        }
+        fieldset{
+            padding: 25px;
+            width: 100px;
+            float: right;
+        }
+        .body{
+            clear: both;
+        }
+     body{
+        background-image: url(fashion/8.jpeg);
+         
+         background-repeat: round;
+        
+        color: whitesmoke;
+
+        
+        
+    }
+    
+    fieldset label{
+        float: left;
+        width: 90px;
+    }  
+    
+    fieldset{
+        width: 300px;
+       border: white; 
+        height: 300px;
+        color: rebeccapurple;
+    }
+    
+    .form{
+        padding-left: 400px;
+    
+    }    
+    
+    h3{
+       color:    maroon;
+       
+
+        
+    }
+        
+        h4{
+            color: firebrick;
+            
+           
+        }
+        
+        h1{
+            color: maroon;
+            text-align: center;
+        }
+        
+        marquee{
+            color: firebrick;
+        }
+        
+        #first, #second{
+            float: left;
+        }
+        
+        #third{
+            clear: both;
+        }
+        
+        #first{
+            line-height: 30px;
+             padding-left: 100px;
+            padding-right: 100px;
+        }
+        
+        #second{
+            padding-left: 10px;
+            padding-right: 20px;
+        }
+        
+        .table{
+            border: 1px solid black;
+            
+        }

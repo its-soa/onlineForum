@@ -1,0 +1,260 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: whitesmoke;
+}
+header{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../fashion/8.jpeg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+#logodiv{
+    float: left;
+}
+
+#logo{
+    margin-left: 10px;
+    margin-top: 10px;
+    width: 170px;
+    height: auto;
+    border-radius: 20px;
+    border: 4px solid indianred;
+}
+
+#name{
+   
+    float: left;
+    color: indianred;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 40px;
+    margin-left: 270px;
+}
+
+#links{
+    float: right;
+    margin-right: 50px;
+    margin-top: 40px;
+}
+
+a{
+    color: lightpink;
+    text-decoration: none;
+}
+
+ul li{
+      list-style-type: none;
+      display: inline;
+      margin-right: 30px;
+      padding: 15px;
+      font-weight: bold;
+      font-size: 23px;
+      font-family: courier;
+      color: white;
+      background-color: indianred;
+      border-radius: 15px;
+
+}
+
+ul li a{
+    color: white;
+}
+
+ul li:hover{
+    color: white;
+    background-color: firebrick;
+    padding: 16px;
+}
+
+#empty{
+    clear: both;
+}
+
+.subhead{
+    margin-top: 65px;
+    color: lightcoral;
+    font-family: comic sans ms;
+    text-align: center;
+}
+.subhead-login h1{
+    margin-top: 95px;
+    color: lightcoral;
+    font-family: comic sans ms;
+    text-align: center;
+}
+
+*/
+/* FOR THE TABLE IN THE SIGN UP PAGE*/
+.form{
+    margin-top: 60px;
+    margin-bottom: 20px;
+    width: 300px;
+    padding: 10px;
+    background-color: mistyrose;
+    margin-left: 500px;
+    border: 1px solid palevioletred;
+    border-radius: 10px;
+    text-align: center;
+    height: 230px;
+}
+
+.form p{
+    margin-top: 15px;
+    font-family: garamond;
+}
+
+.form input{
+    margin-top: 9px;
+    height: 27px;
+    border-radius: 15px;
+    padding-left: 13px;
+    border: 1px solid lightpink;
+    color: palevioletred;
+}
+
+#submit input{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: transparent;
+    padding: 10px;
+    font-weight: bold;
+    color: firebrick;
+    width: 120px;
+    height: 45px;
+}
+
+#submit input:hover{
+    margin-top: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: indianred;
+    padding: 10px;
+    color: white;
+    width: 140px;
+    height: 45px;
+}
+
+.gender{
+    width: 20px;
+    margin-left: 15px;
+}
+
+.content{
+    color: firebrick;
+    margin-top: 20px;
+    font-family: garamond;
+}
+
+.content #first{
+    margin-bottom: 20px;
+    margin-left: 100px;
+    width: 470px;
+    line-height: 32px;
+    height: 250px;
+    float: left;
+    background-color: mistyrose; /*mistyrose*/
+    padding: 15px;
+   /* font-family: courier;*/
+}
+
+.content #first:hover{
+    margin-bottom: 20px;
+    margin-left: 100px;
+    width: 470px;
+    line-height: 32px;
+    height: 250px;
+    float: left;
+    background-color: mistyrose; /*lightpink*/
+    padding: 22px;
+   /* font-family: courier;*/
+}
+.content #second{
+    margin-bottom: 20px;
+    width: 470px;
+    float: left;
+    height: 250px;
+    padding: 15px;
+    background-color: peachpuff;
+    line-height: 31px;
+    margin-left: 150px;
+   /* clear: both;*/
+ /*   font-family: garamond;*/
+}
+
+.content #second:hover{
+    margin-bottom: 20px;
+    width: 470px;
+    float: left;
+    height: 250px;
+    padding: 22px;
+    background-color: peachpuff;
+    line-height: 32px;
+    margin-left: 150px;
+   /* clear: both;*/
+ /*   font-family: garamond;*/
+}
+
+.content #third{
+    margin-bottom: 20px;
+    clear: both;
+    width: 400px;
+    padding-top: 20px;
+    padding: 15px;
+    line-height: 32px;
+    margin-left: 400px;
+    height: 140px;
+    background-color: moccasin;
+ /*   font-family: garamond;*/
+}
+
+.content #third:hover{
+    margin-bottom: 20px;
+    clear: both;
+    width: 400px;
+    padding-top: 25px;
+    padding: 22px;
+    line-height: 32px;
+    margin-left: 400px;
+    height: 140px;
+    background-color: moccasin;
+ /*   font-family: garamond;*/
+}
+
+.side{
+    color: indianred;
+}
+.foot{
+    height: 150px;
+    background-color: indianred;
+    color: firebrick;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.ref{
+    margin-top: 30px;
+
+}
+
+#ref{
+    padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
