@@ -20,7 +20,7 @@ include ("db/db_config.php");
       </div>
 
       <div id="name">
-        <h1>Chat Hub</h1>
+        <h1>Chat Hub </h1>
       </div>
 
       <div id="links">
