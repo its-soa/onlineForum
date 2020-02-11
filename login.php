@@ -21,7 +21,7 @@ include ("db/db_config.php");
 
       <div id="name">
         <h1>Chat Hub </h1>
-      </div>
+      </div>g
 
       <div id="links">
           <ul>
